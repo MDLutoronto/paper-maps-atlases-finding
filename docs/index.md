@@ -4,6 +4,9 @@ layout: "home"
 description: "This tutorial demonstrates how to find paper maps and atlases in the University of Toronto Libraries catalogue, then locate them in Map & Data Library's fifth floor collection."
 staff:
     - name: Jordan Hale
+maintainer: 
+    - name: Nick Field
+      link: https://library.utoronto.ca/staff/nick-field
 created_date: 2016-04-12
 permalink: "/"  #! Remove this if not the homepage
 ---
