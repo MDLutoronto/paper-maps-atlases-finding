@@ -2,8 +2,6 @@
 title: "Finding paper maps and atlases"
 layout: "home"
 description: "This tutorial demonstrates how to find paper maps and atlases in the University of Toronto Libraries catalogue, then locate them in Map & Data Library's fifth floor collection."
-staff:
-    - name: Jordan Hale
 maintainer: 
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
@@ -65,4 +63,4 @@ Note that not every geographic area covered by a map will necessarily be describ
 
  [Finding-paper-maps-atlases.pdf](https://mdl.library.utoronto.ca/sites/default/public/Finding-paper-maps-atlases.pdf)
 
- Technique: [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | Data Format: [Paper maps](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Paper+maps)
+ **Technique:** [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Data Format:** [Paper maps](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Paper+maps)
